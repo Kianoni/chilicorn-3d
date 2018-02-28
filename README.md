@@ -1,7 +1,7 @@
 # chilicorn-3d
 Cubes. Lots of Cubes.
 
-Based on the Chilicorn logo, and when viewed from the side the 3D version perfectly matches 
+Based on the Chilicorn logo, and when viewed from the side the 3D version perfectly matches the original logo:
 ![alt text](https://raw.githubusercontent.com/futurice/spiceprogram/gh-pages/assets/img/logo/chilicorn_no_text-512.png)
 
 # sample render
